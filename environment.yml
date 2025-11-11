@@ -1,0 +1,10 @@
+name: roman_timeline
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - plotly
+  - matplotlib
+  - jupyter
+  - jupyterlab
+  
